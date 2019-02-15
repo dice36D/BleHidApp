@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">BleHidApp</string>
     <string name="action_settings">Settings</string>
+    <string name="send_message">Send</string>
+    <string name="ble_connected">Connected</string>
+    <string name="ble_disconnect">Disconnect</string>
 </resources>
